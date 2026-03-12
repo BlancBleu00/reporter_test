@@ -190,10 +190,10 @@ if st.session_state.done:
             "청년의 이야기와 현장을 기록하고, 정책과 이슈를 청년의 시선으로 풀어내는 활동입니다."
         )
 
-        if APPLY_URL != "http://www.dgyouth.kr/board/notice.asp?num=2602&pmode=VIEW&board=notice&page=1&sKey=&sWord=&pCate=0":
+        if APPLY_URL:
             st.link_button("청년기자단 지원 알아보기", APPLY_URL, use_container_width=True)
         else:
-            st.info("지원 링크를 아직 넣지 않았습니다. app_reporter.py의 APPLY_URL을 실제 모집 링크로 바꿔주세요.")
+            st.info("지원 링크를 아직 넣지 않았습니다.")
 
     else:
         st.markdown(f"## {code}")
