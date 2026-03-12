@@ -1,0 +1,21 @@
+{
+  "ISTJ": {"group": "팩트 체크와 기록 (SJ)", "nickname": "철벽 교정교열사", "one_liner": "오타는 용납 못 해. 팩트와 수치로 증명하는 기사.", "tag": "정석형", "best_match": "인터뷰 메이커, ESFJ"},
+  "ISFJ": {"group": "팩트 체크와 기록 (SJ)", "nickname": "현장 밀착 서포터", "one_liner": "취재원의 작은 목소리까지 놓치지 않고 기록할게요.", "tag": "꼼꼼형", "best_match": "마감 킬러 팀장, ESTJ"},
+  "ESTJ": {"group": "팩트 체크와 기록 (SJ)", "nickname": "마감 킬러 팀장", "one_liner": "기획안부터 마감까지, 딜레이는 절대 없다.", "tag": "추진형", "best_match": "현장 밀착 서포터, ISFJ"},
+  "ESFJ": {"group": "팩트 체크와 기록 (SJ)", "nickname": "인터뷰 메이커", "one_liner": "처음 만난 사람도 10년 지기처럼 만드는 친화력.", "tag": "소통형", "best_match": "철벽 교정교열사, ISTJ"},
+
+  "ISTP": {"group": "현장과 장비 (SP)", "nickname": "장비빨 촬영 감독", "one_liner": "말보다 한 컷의 사진, 한 줄의 로그로 보여준다.", "tag": "기술파", "best_match": "트렌드 헌터, ENTP"},
+  "ISFP": {"group": "현장과 장비 (SP)", "nickname": "감성 스케치 작가", "one_liner": "현장의 온도와 색감을 문장에 담는 예술적 기사.", "tag": "미학파", "best_match": "아이디어 뱅크, ENFP"},
+  "ESTP": {"group": "현장과 장비 (SP)", "nickname": "단독 취재 특파원", "one_liner": "일단 현장부터 가고 봅니다. 사건의 중심에 내가 있다.", "tag": "행동파", "best_match": "심층 분석가, INTP"},
+  "ESFP": {"group": "현장과 장비 (SP)", "nickname": "바이럴 치트키", "one_liner": "내가 쓴 기사는 무조건 조회수 터진다. 재미가 우선!", "tag": "흥행파", "best_match": "감성 스토리텔러, INFP"},
+
+  "INFJ": {"group": "기획과 서사 (NF)", "nickname": "통찰의 칼럼니스트", "one_liner": "현상 너머의 본질을 꿰뚫는 묵직한 메시지 한 방.", "tag": "심층형", "best_match": "기획형 불도저, ENTJ"},
+  "INFP": {"group": "기획과 서사 (NF)", "nickname": "감성 스토리텔러", "one_liner": "모두가 놓친 한 사람의 서사에 진심을 담습니다.", "tag": "공감형", "best_match": "바이럴 치트키, ESFP"},
+  "ENFP": {"group": "기획과 서사 (NF)", "nickname": "아이디어 뱅크", "one_liner": "이런 기획 어때요? 세상 모든 것이 기사 소재!", "tag": "창의형", "best_match": "감성 스케치 작가, ISFP"},
+  "ENFJ": {"group": "기획과 서사 (NF)", "nickname": "청년 여론 선봉장", "one_liner": "우리의 목소리로 세상을 바꾸는 캠페인형 기사.", "tag": "리더형", "best_match": "빅픽처 설계자, INTJ"},
+
+  "INTJ": {"group": "전략과 분석 (NT)", "nickname": "빅픽처 설계자", "one_liner": "기사 한 편이 가져올 파급력을 계산하여 배치한다.", "tag": "지략형", "best_match": "청년 여론 선봉장, ENFJ"},
+  "INTP": {"group": "전략과 분석 (NT)", "nickname": "심층 분석가", "one_liner": "모두가 맞다 할 때 '왜?'라고 묻는 데이터 추적자.", "tag": "연구형", "best_match": "단독 취재 특파원, ESTP"},
+  "ENTP": {"group": "전략과 분석 (NT)", "nickname": "트렌드 헌터", "one_liner": "남들 다 하는 건 노잼. 새로운 포맷과 주제로 승부한다.", "tag": "도전형", "best_match": "장비빨 촬영 감독, ISTP"},
+  "ENTJ": {"group": "전략과 분석 (NT)", "nickname": "기획형 불도저", "one_liner": "이미 머릿속엔 연간 기획 완료. 결과로 압도한다.", "tag": "성과형", "best_match": "통찰의 칼럼니스트, INFJ"}
+}
